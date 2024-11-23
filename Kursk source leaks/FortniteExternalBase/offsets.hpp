@@ -1,0 +1,31 @@
+#pragma once
+
+#define U_WORLD 0x5C80950 // !!
+#define GAME_INSTANCE 0x160
+#define LOCAL_PLAYERS 0x38
+#define PLAYER_CONTROLLER 0x30
+#define LOCAL_PAWN 0x350 // !!
+#define PAWN_PRIVATE 0x3B8
+#define ROOT_COMPONENT 0x158
+#define RELATIVE_LOCATION 0x164
+#define PLAYER_STATE 0x350
+#define TEAM_INDEX 0xDA8
+#define GAME_STATE 0x120
+#define PLAYER_ARRAY 0x348
+#define MESH 0x390
+#define COMPONENT_TO_WORLD 0x1c0 // !!
+#define BONE_ARRAY 0x580 // !!
+#define BONE_ARRAY_CACHE 0x590 // !!
+#define LAST_SUBMIT_TIME 0x2EC // !!
+#define LAST_SUBMIT_TIME_ON_SCREEN 0x2F0 // !!
+#define COMPONENT_VELOCITY 0x168 // !!
+#define TARGETED_FORT_PAWN 0x18e8 // !!
+#define ITEM_NAME 0x40 // !!
+#define WEAPON_DATA 0x390 // UPDATED
+#define WEAPON_NAME 0x40 // !!
+#define AMMO_COUNT 0xfb4 // UPDATED // !!
+#define RARITY 0xa2 // UPDATED // !!
+#define CURRENT_WEAPON 0x820 // UPDATED
+#define PLATFORM 0x408 // UPDATED // !!
+#define HABANERO_COMPONENT 0xa10 // UPDATED // !!
+#define RANKED_PROGRESS 0xb8 // UPDATED // !!
